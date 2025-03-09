@@ -11,3 +11,5 @@ Score
 Training Accuracy	69%
 Validation Accuracy	48%
 Test Accuracy	48%
+
+Link to the dataset - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
